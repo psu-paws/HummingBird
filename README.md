@@ -21,7 +21,7 @@ python3 setup.py install
 ## Citation
 If you use HummingBird, please cite us:
 ```
-@inproceedings{
+@inproceedings{maeng2024accelerating,
   author={Maeng, Kiwan and Suh, G. Edward},
   title={Accelerating ReLU for MPC-Based Private Inference with a Communication-Efficient Sign Estimation},
   booktitle={Proceedings of Machine Learning and Systems (MLSys)},
