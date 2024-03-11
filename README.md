@@ -1,6 +1,5 @@
 # Accelerating ReLU for MPC-Based Private Inference with a Communication-Efficient Sign Estimation (MLSys '24)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
---------------------------------------------------------------------------------
 
 Code repo for HummingBird, described in the following paper:
 
