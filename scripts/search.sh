@@ -1,0 +1,2 @@
+#CUDA_VISIBLE_DEVICES=0 python3 search.py --model resnet18 --bs 128 --dataset cifar10 --pooling avg --standardize --val-len 1024 --budget 8 --model-file "models/resnet18_cifar10_standardize_True_pool_avg_bs128_seed0_lr0.01_weight_decay0.01_val1024.pt"
+CUDA_VISIBLE_DEVICES=0 python3 search.py --model resnet18 --bs 128 --dataset cifar10 --pooling avg --standardize --val-len 1024 --budget 6 --model-file "models/resnet18_cifar10_standardize_True_pool_avg_bs128_seed0_lr0.01_weight_decay0.01_val1024.pt"

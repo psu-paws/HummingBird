@@ -1,0 +1,3 @@
+[submodule "CrypTen"]
+	path = CrypTen
+	url = git@github.com:psu-paws/CrypTen.git
